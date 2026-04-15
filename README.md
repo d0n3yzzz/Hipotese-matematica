@@ -15,4 +15,4 @@ Como rodar :
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/d0n3yzzz/Verificador-de-triangulo.git
+git clone https://github.com/d0n3yzzz/Hipotese-matematica.git
